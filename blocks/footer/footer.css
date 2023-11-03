@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    font-size: 18px;
+    text-align: left;
+    color: #545454;
+    margin: 55px auto;
+    width: 880px;
+}

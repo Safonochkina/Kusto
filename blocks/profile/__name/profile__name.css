@@ -1,0 +1,5 @@
+.profile__name {
+    display: flex;
+    width: 336px;
+    justify-content: space-between;
+}
